@@ -11,8 +11,7 @@ toc_label: "On This Page:"
 <div><center><img src="assets\dpbig.jpg" style="border-radius: 50%; width: 50%"></center></div>
 <br/>
 <div markdown="1" style="font-size:18px">
-My name is Mihir. I'm a third year undergraduate at Virginia Tech, majoring in Computer Engineering (Digital
-Design, Digital Signal Processing, Chip-Scale Integration, Machine Learning).
+My name is Mihir. I'm a fourth-year undergraduate (a.k.a a senior) at Virginia Tech's Bradley School of Electrical and Computer Engineering, where I major in Computer Engineering. My academic and career foci are within the realms of Digital Design, Digital Signal Processing, Chip-Scale Integration, and Machine Learning.
 
 I've recently fallen into the rabbit hole of Digital System Design & Neuromorphic Computing - it is where my current research interests lie. I have grown quite fond of playing with digital logic at the lowest levels; I find its combination of simplicity, flexibility, and inherent scalability fascinating and powerful.
 
@@ -74,7 +73,7 @@ i.e. my source of zen. Running a minimal set-up: Harley Benton Dullahan, Zoom G1
   Surviving Junior year in Electrical & Computer Engineering, working on VT MICS projects, thinking about grad school, attempting to balance life in general. Realizing the striking finiteness of time. -->
 
 - __May, 2021__:  
-  Drove across the United States (Virginia to California) in a beat-up 14year old Honda fit. Started an Internship at Qualcomm's Global System on Chip team working on processor architecture validation and subsystem design - these go into billions of chips used by people everyday, all around the world.
+  Drove across the United States (Virginia to California) in a beat-up 14year old Honda fit. Started an Internship at Qualcomm's Global System on Chip team working on processor architecture validation and subsystem design - these go into hundreds of billions of chips used by people everyday, all around the world.
 - __August, 2020__:  
   Joined the [Virginia Tech Multifunctional Integrated Circuits & Systems Group (VT MICS)](https://www.mics.ece.vt.edu/), conducting research into low power Neuromorphic ASIC's (application specific integrated circuits). Get to work on cool stuff at the intersections of artificial intelligence, neuroscience, low level signal processing, and computer architecture.  
   <!-- *New item on the bucket list:* ☐*build a brain*. -->
