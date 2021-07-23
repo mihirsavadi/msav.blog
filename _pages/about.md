@@ -13,7 +13,7 @@ toc_label: "On This Page:"
 <div markdown="1" style="font-size:18px">
 My name is Mihir. I'm a fourth-year undergraduate (a.k.a a senior) at Virginia Tech's Bradley School of Electrical and Computer Engineering, where I major in Computer Engineering. My academic and career foci are within the realms of Digital Design, Digital Signal Processing, Chip-Scale Integration, and Machine Learning.
 
-I've recently fallen into the rabbit hole of Digital System Design & Neuromorphic Computing - it is where my current research interests lie. I have grown quite fond of playing with digital logic at the lowest levels; I find its combination of simplicity, flexibility, and inherent scalability fascinating and powerful.
+I've recently fallen into the rabbit holes of Digital System Design & Neuromorphic Computing - it is where my current research interests lie. I have grown quite fond of playing with digital logic at the lowest levels; I find its combination of simplicity, flexibility, and inherent scalability fascinating and powerful.
 
 When I'm not occupied with research or getting my degree, I enjoy listening to and creating music, reading, cooking, and stretching out my hammock.
 </div>
